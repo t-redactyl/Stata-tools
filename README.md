@@ -11,7 +11,7 @@ Useful programs for statistics in Stata.
 
 __Syntax__
 
-  __varfreqs__  _numberofvariables_ _usingdata_ _firstvariable_ _lastvariable_ _outcomevariable_ _exportdata_
+  __varfreqs__   _numberofvariables_  _usingdata_  _firstvariable_  _lastvariable_  _outcomevariable_  _exportdata_
   
   where:
   * numberofvariables : Number of dichotomous variables included in the frequency table;
